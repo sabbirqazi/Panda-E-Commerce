@@ -1,0 +1,48 @@
+.background{
+    background: #FEEAE9;
+}
+
+
+.price-tag{
+    color: #FF136F;
+    font-weight: 500;
+    font-size: 41px;
+}
+.button{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    width: 168px;
+    height: 52px; 
+    padding: 14px 20px;
+    font-size: 16px;
+    border: 0;
+    color: #FFFFFF;
+    
+}
+.card{
+    
+    border-radius: 20px;
+}
+.btn-for-catagories{
+    width: 168px;
+    height: 52px; 
+    padding: 14px 20px;
+    font-size: 16px;
+    border: 0;  
+}
+.send{
+    font-size: 20px;
+    font-weight: 500;
+}
+.subscribe{
+    background: #FEEAE9;
+    height: 400px;
+    
+}
+form > input{
+    height: 52px;
+    width: 583px;
+    padding: 22px 35px;
+    font-size: 18px;
+    background: #FFFFFF;
+    border: 0;
+}
